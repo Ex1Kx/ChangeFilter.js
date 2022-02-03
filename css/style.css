@@ -1,0 +1,21 @@
+img{
+    filter: invert(100%);
+}
+#content{
+    text-align: center;
+}
+#content-header{
+    text-align: center;
+}
+input{
+    border: #fff;
+    text-align: center;
+    font-size: 200%;
+}
+
+
+button{
+    border: none;
+    padding: 20px 30px;
+    margin-left: 20px;
+}
